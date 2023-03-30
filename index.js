@@ -28,9 +28,9 @@ const openDb = () => {
         // password: 'oamk',
         // port: 5432,
         user: 'root',
-        host: 'dpg-cge4kmvekgjpv7uvsgvg-a.frankfurt-postgres.render.com',
-        database: 'todo_okmp',
-        password: '8qg4HVdvOHlsRfXpd3hXUHWXI8mykgDM',
+        host: 'dpg-cgim2phr8t1g7lq7gevg-a.frankfurt-postgres.render.com',
+        database: 'todo_d4ch',
+        password: 'QgCXlEcwpHXd8SLAHlTjqZfLWu865xsx',
         port: 5432,
         ssl: true,
     });
